@@ -1,3 +1,5 @@
+Got it! Here’s the updated section with the **Mobile View** heading placed between the two images in the **Home & Living** section:
+
 # Myntra Clone App
 
 We have developed a web application inspired by Myntra, using HTML and Tailwind CSS. This application features a user-friendly interface, extensive product listings, and a responsive design, ensuring a smooth shopping experience similar to the Myntra platform. The project emphasizes front-end design and user interface, effectively mimicking the functionality of this well-known online fashion retailer.
@@ -44,8 +46,11 @@ The kids' section is filled with stylish outfits and playful accessories, servin
 ## Home & Living
 The home and living section merges style and comfort, offering a vast selection of home décor, furniture, and kitchen essentials.
 
-![4](https://i.ibb.co/SVGxgZG/4.png) 
-Mobile View
+![4](https://i.ibb.co/SVGxgZG/4.png)
+
+#### Mobile View
+This section showcases the responsive design of the app on mobile devices, ensuring a seamless shopping experience.
+
 ![7](https://i.ibb.co/PNNXMmY/7.png)
 
 ## Beauty
