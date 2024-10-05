@@ -44,7 +44,9 @@ The kids' section is filled with stylish outfits and playful accessories, servin
 ## Home & Living
 The home and living section merges style and comfort, offering a vast selection of home décor, furniture, and kitchen essentials.
 
-![4](https://i.ibb.co/SVGxgZG/4.png) ![7](https://i.ibb.co/PNNXMmY/7.png)
+![4](https://i.ibb.co/SVGxgZG/4.png) 
+Mobile View
+![7](https://i.ibb.co/PNNXMmY/7.png)
 
 ## Beauty
 The beauty section is a haven for skincare and makeup enthusiasts, featuring a wide range of products from leading brands.
