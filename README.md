@@ -1,4 +1,3 @@
-Got it! Here’s the updated section with the **Mobile View** heading placed between the two images in the **Home & Living** section:
 
 # Myntra Clone App
 
